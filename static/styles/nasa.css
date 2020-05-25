@@ -1,0 +1,46 @@
+body {
+	font-family: sans-serif;
+	background-color: black;
+	font-family: 'Courier New', Courier, monospace;
+}
+body img {
+    width: 100vw;
+	height: 100vw;
+	display: none;
+}
+
+body h1 {
+	margin-left: 4vw;
+    max-width: 90vw;
+	font-size: 6vw;
+	font-weight: bold;
+	color: white;
+}
+body h2 {
+	margin-left: 4vw;
+    max-width: 90vw;
+	font-size: 4vw;
+	font-weight: lighter;
+	color: white;
+}
+body h3 {
+	color: white;
+	font-size: 6vw;
+	margin-left: 4vw;
+	width: 55vw;
+}
+body iframe {
+	width: 100vw;
+	height: 60vw;
+	display: none;
+}
+.request {
+	border-radius: 2vw;
+    width: 30vw;
+	height:10vw;
+	margin: 4vw;
+	background-color: crimson;
+	border: none;
+	font-size: 4vw;
+	color: white;
+}
