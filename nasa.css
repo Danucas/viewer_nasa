@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    font-family: sans-serif;
+}
+body img {
+    width: 400px;
+    height: 400px;
+}
+body div {
+    margin-left:20px;
+}
+body h1 {
+    max-width: 400px;
+    font-size: 18px;
+}
+body h2 {
+    max-width: 400px;
+    font-size: 14px;
+}
+.request {
+    width: 80px;
+    height:40px;
+    margin-left: 20px;
+}
