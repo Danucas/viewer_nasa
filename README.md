@@ -10,7 +10,7 @@ Request Url: GET https://api.nasa.gov/planetary/apod
 Motivation
 ----------
 
-Explore APIs capabilities with a easy to build project
+Explore APIs capabilities with an easy to build project
 to show the basic construction of a web application that consumes data from out sources
 
 Screenshots
